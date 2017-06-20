@@ -51,17 +51,20 @@ header {
 
 .menulink1{
 	float:left;
-	padding-right:30px
+	padding-right:30px;
+	position: absolute;
 }
 
 .menulink2{
 	float: left;
-	padding-right:30px
+	padding-right:30px;
+	position: absolute;
 }
 
 .menulink3{
 	float:left;
 	padding-right: 30px;
+	position: absolute;
 }
 
 .bioimage {
