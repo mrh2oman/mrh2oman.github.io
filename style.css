@@ -1,0 +1,71 @@
+.footer{
+		width:100%;
+		background: #ccc;
+		position: sticky;
+		text-align: center;
+}
+
+header {
+	padding: 2%;
+  	margin-bottom: 3%;
+  	width:100%;
+  	color: #333;
+  	background: #ccc;
+}
+
+.sec1 {
+	font-family: "Arial";
+	font-size: 125%;
+	padding: 0 0 10px 15px;
+}
+
+.header{
+		width:250%%;
+		height:100%;
+		font-family: "Helvetica";
+		float:left;
+		padding:
+		border:
+		margin:
+}
+
+.head1 {
+	text-align: left;	
+	font-size: 170%;
+	float:left;
+	padding:10px;
+	border: 10 10 10 10; 
+	margin-bottom:
+}
+
+.menusec {
+	float:left;
+	text-align: right;
+	list-style: none;
+	padding-left: 660px;
+	padding-top: 60px;
+	position: fixed;
+
+
+}
+
+.menulink1{
+	float:left;
+	padding-right:30px
+}
+
+.menulink2{
+	float: left;
+	padding-right:30px
+}
+
+.menulink3{
+	float:left;
+	padding-right: 30px;
+}
+
+.bioimage {
+	padding: 20px 40px 20px 33.3%;
+	margin: 10px 5px 5px 10px;
+}
+
